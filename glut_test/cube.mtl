@@ -1,0 +1,11 @@
+# Material file for cube.obj
+
+newmtl 1278921686833
+	Ns 255
+	d 0.50
+	illum 2
+	Kd 0.8 0.8 0.8
+	Ks 1.0 1.0 1.0
+	Ka 0.2 0.2 0.2
+	map_Kd 1278921686833.bmp
+
